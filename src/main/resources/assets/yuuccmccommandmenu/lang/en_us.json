@@ -1,0 +1,59 @@
+{
+  "key.yuuccmccommandmenu.open_menu": "Open Command Menu",
+  "category.yuuccmccommandmenu": "Yuucc MC Command Menu",
+
+  "screen.yuuccmccommandmenu.main_menu": "Command Menu",
+  "screen.yuuccmccommandmenu.time_menu": "Time Settings",
+  "screen.yuuccmccommandmenu.weather_menu": "Weather Settings",
+  "screen.yuuccmccommandmenu.game_rules_menu": "Game Rules",
+
+  "button.yuuccmccommandmenu.time": "Time",
+  "button.yuuccmccommandmenu.weather": "Weather",
+  "button.yuuccmccommandmenu.game_rules": "Game Rules",
+
+  "button.yuuccmccommandmenu.time.day": "Day",
+  "button.yuuccmccommandmenu.time.noon": "Noon",
+  "button.yuuccmccommandmenu.time.night": "Night",
+  "button.yuuccmccommandmenu.time.midnight": "Midnight",
+
+  "button.yuuccmccommandmenu.weather.clear": "Clear",
+  "button.yuuccmccommandmenu.weather.rain": "Rain",
+  "button.yuuccmccommandmenu.weather.thunder": "Thunder",
+  "button.yuuccmccommandmenu.weather.snow": "Snow",
+
+  "button.yuuccmccommandmenu.locked": "Locked",
+  "button.yuuccmccommandmenu.unlocked": "Unlocked",
+
+  "button.yuuccmccommandmenu.previous_page": "Previous Page",
+  "button.yuuccmccommandmenu.next_page": "Next Page",
+  "button.yuuccmccommandmenu.page": "Page %d/%d",
+
+  "gamerule.keepInventory": "Keep Inventory",
+  "gamerule.naturalRegeneration": "Natural Regeneration",
+  "gamerule.doImmediateRespawn": "Immediate Respawn",
+  "gamerule.fallDamage": "Fall Damage",
+  "gamerule.fireDamage": "Fire Damage",
+  "gamerule.drowningDamage": "Drowning Damage",
+  "gamerule.freezeDamage": "Freeze Damage",
+  "gamerule.spawnRadius": "Spawn Radius",
+  "gamerule.playersSleepingPercentage": "Sleeping Percentage",
+  "gamerule.mobGriefing": "Mob Griefing",
+  "gamerule.doMobSpawning": "Mob Spawning",
+  "gamerule.doMobLoot": "Mob Loot",
+  "gamerule.maxEntityCramming": "Entity Cramming",
+  "gamerule.doInsomnia": "Insomnia",
+  "gamerule.doWardenSpawning": "Warden Spawning",
+  "gamerule.universalAnger": "Universal Anger",
+  "gamerule.doDaylightCycle": "Daylight Cycle",
+  "gamerule.doWeatherCycle": "Weather Cycle",
+  "gamerule.doFireTick": "Fire Tick",
+  "gamerule.waterSourceConversion": "Water Source Conversion",
+  "gamerule.lavaSourceConversion": "Lava Source Conversion",
+  "gamerule.randomTickSpeed": "Random Tick Speed",
+  "gamerule.doTileDrops": "Tile Drops",
+  "gamerule.doEntityDrops": "Entity Drops",
+  "gamerule.tntExplosionDropDecay": "TNT Explosion Drop Decay",
+
+  "gamerule.state.on": "ON",
+  "gamerule.state.off": "OFF"
+}

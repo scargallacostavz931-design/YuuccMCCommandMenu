@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "yuuccmccommandmenu",
+  "version": "${version}",
+  "name": "YuuccMCCommandMenu",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/yuuccmccommandmenu/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "fabric-datagen": [
+      "yuucc.yuuccmccommandmenu.client.YuuccmccommandmenuDataGenerator"
+    ],
+    "client": [
+      "yuucc.yuuccmccommandmenu.client.YuuccmccommandmenuClient"
+    ],
+    "main": [
+      "yuucc.yuuccmccommandmenu.Yuuccmccommandmenu"
+    ]
+  },
+  "mixins": [
+    "yuuccmccommandmenu.mixins.json",
+    {
+      "config": "yuuccmccommandmenu.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

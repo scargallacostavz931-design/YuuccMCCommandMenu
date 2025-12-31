@@ -1,0 +1,36 @@
+# --- Gradle ---
+.gradle/
+build/
+
+# --- IDE (IntelliJ IDEA) ---
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# --- IDE (Eclipse) ---
+.classpath
+.project
+.settings/
+bin/
+.metadata/
+
+# --- IDE (VS Code) ---
+.vscode/
+
+# --- Minecraft Run Environment (运行生成的日志、配置和世界存档) ---
+run/
+runServer/
+logs/
+debug/
+usercache.json
+usernamecache.json
+
+# --- OS generated files ---
+.DS_Store
+Thumbs.db
+
+# --- Java/Modding specific ---
+*.log
+/local.properties
